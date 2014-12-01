@@ -1,0 +1,1 @@
+class { "vim::dependencies::clang": }
